@@ -1,4 +1,4 @@
-# CAT201 Project: Andriod Weather Application | WeatherApp
+# CAT201 Project: Android Weather Application | WeatherApp
 The repository contains the source code for an Android weather app that our group created as the final project for the **CAT201** course at **Universiti Sains Malaysia**.
 The weatherapi.com API is used by the android application to retrieve current weather data and present it to the user along with the day's hourly prediction. Users may also search for a specific city, and the app will provide the current weather as well as the hourly prediction for the specified (correct) location. 
 ## Key Points
